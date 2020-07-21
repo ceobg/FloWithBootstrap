@@ -1,0 +1,9 @@
+
+.normal {
+    font-style: normal 16=px;
+    background-color: salmon;
+}
+.jumbotron {
+    background-color:rgb(199, 78, 114);
+    color:rgb(244, 248, 248);
+}
