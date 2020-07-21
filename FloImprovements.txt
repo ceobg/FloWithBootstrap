@@ -1,0 +1,12 @@
+Changes made. 
+
+Added rows and columns.
+Fixed font sizes and colors.
+Added transitions.
+Learned new commit commands, especially how to undo, redo and reset..etc.
+Pushed passed any frustrations I had and "committed" to my WHY.
+
+I look forward to building many more websites in the near future.
+
+I have enjoyed doing this project and learned a lot.
+Professor has been great to work with and very accomodating.
